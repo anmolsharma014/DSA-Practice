@@ -7,6 +7,7 @@ class Solution {
         }
         return -1;
     }
+}
 // Problem: First unsorted element in a sorted array 
 // Example: [2,5,12,9,15]→ 9
 // Approach: Traverse the array and return the first element where the current element is greater than the next element.
